@@ -1,5 +1,3 @@
-# Valentine-
-Will you be my valentine?
 <!DOCTYPE html>
 <html lang="en">
 <head>
